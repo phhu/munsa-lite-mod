@@ -2,6 +2,8 @@
 
 This is a modified version of the munsa lite theme.
 
+used for gtc
+
 # Munsa Lite
 
 Munsa Lite is a minimal theme for creative people like photobloggers and artists. It has a clean and fresh responsive design.
