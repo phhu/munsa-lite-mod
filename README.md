@@ -1,3 +1,7 @@
+# Munsa lite mod
+
+This is a modified version of the munsa lite theme.
+
 # Munsa Lite
 
 Munsa Lite is a minimal theme for creative people like photobloggers and artists. It has a clean and fresh responsive design.
